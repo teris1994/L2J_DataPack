@@ -978,7 +978,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="139" levels="3" name="Guts">
+	<skill id="139" levels="9" name="Guts">
 		<!-- Confirmed CT2.5 -->
 		<table name="#abnormalLvls"> 1 2 3 </table>
 		<table name="#effectPoints"> 341 408 495 </table>
@@ -1302,7 +1302,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="172" levels="10" name="Create Item">
+	<skill id="172" levels="14" name="Create Item">
 		<table name="#magicLvl"> 5 20 28 36 43 49 55 62 70 82 </table>
 		<set name="icon" val="icon.skill0172" />
 		<set name="magicLvl" val="#magicLvl" />
@@ -1323,7 +1323,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="176" levels="3" name="Frenzy">
+	<skill id="176" levels="9" name="Frenzy">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<table name="#abnormalLvls"> 1 2 3 </table>
 		<table name="#accCombat"> 2 4 6 </table>

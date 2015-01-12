@@ -1390,7 +1390,7 @@
 		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
 		<set name="targetType" val="NONE" />
 	</skill>
-	<skill id="2860" levels="6" name="Superior Elixir of Life (No-grade)">
+	<skill id="2860" levels="7" name="Superior Elixir of Life (No-grade)">
 		<!-- Confirmed CT2.5 -->
 		<table name="#amount"> 500 1300 2200 3000 3800 4600 </table>
 		<table name="#levelRange"> 1;19 20;39 40;51 52;60 61;75 76;85 </table>
@@ -1411,7 +1411,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="2861" levels="6" name="Superior Elixir of Mind (No-grade)">
+	<skill id="2861" levels="7" name="Superior Elixir of Mind (No-grade)">
 		<!-- Confirmed CT2.5 -->
 		<table name="#amount"> 120 280 440 580 720 840 </table>
 		<table name="#levelRange"> 1;19 20;39 40;51 52;60 61;75 76;85 </table>
@@ -1432,7 +1432,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="2862" levels="6" name="Superior Elixir of CP (No-grade)">
+	<skill id="2862" levels="7" name="Superior Elixir of CP (No-grade)">
 		<!-- Confirmed CT2.5 -->
 		<table name="#amount"> 300 700 1200 1600 2000 2400 </table>
 		<table name="#levelRange"> 1;19 20;39 40;51 52;60 61;75 76;85 </table>

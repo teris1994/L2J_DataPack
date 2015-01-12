@@ -1462,7 +1462,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="4271" levels="8" name="Momentum">
+	<skill id="4271" levels="50" name="Momentum">
 		<!-- Freya retail confirmed -->
 		<table name="#icons"> icon.skill4271_1 icon.skill4271_2 icon.skill4271_3 icon.skill4271_4 icon.skill4271_5 icon.skill4271_6 icon.skill4271_7 icon.skill4271_8 </table>
 		<set name="icon" val="#icons" />

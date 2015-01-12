@@ -403,7 +403,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="1129" levels="7" name="Summon Reanimated Man" enchantGroup1="1">
+	<skill id="1129" levels="13" name="Summon Reanimated Man" enchantGroup1="1">
 		<table name="#itemConsumeCount"> 11 13 6 9 9 6 9 </table>
 		<table name="#itemConsumeCountOT"> 0 0 1 1 1 2 2 </table>
 		<table name="#itemConsumeSteps"> 0 0 14 14 14 14 14 </table>

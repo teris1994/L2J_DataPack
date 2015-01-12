@@ -2489,7 +2489,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="793" levels="1" name="Rush Impact" enchantGroup1="6" enchantGroup2="6" enchantGroup3="6" enchantGroup4="6" enchantGroup5="6" enchantGroup6="6" enchantGroup7="6" enchantGroup8="6">
+	<skill id="793" levels="5" name="Rush Impact" enchantGroup1="6" enchantGroup2="6" enchantGroup3="6" enchantGroup4="6" enchantGroup5="6" enchantGroup6="6" enchantGroup7="6" enchantGroup8="6">
 		<!-- Confirmed CT2.5 -->
 		<table name="#ench1Power"> 4071 4102 4133 4164 4195 4226 4257 4289 4320 4351 4382 4413 4444 4475 4507 </table>
 		<table name="#ench2Cost"> 80 78 76 74 72 70 68 66 64 62 59 57 55 53 51 </table>

@@ -1457,7 +1457,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="1244" levels="4" name="Freezing Flame">
+	<skill id="1244" levels="10" name="Freezing Flame">
 		<table name="#abnormalLvls"> 5 6 7 8 </table>
 		<table name="#dot"> 102 125 144 157 </table>
 		<table name="#effectPoints"> -379 -495 -597 -646 </table>
@@ -2181,7 +2181,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="1262" levels="5" name="Transfer Pain" enchantGroup1="1">
+	<skill id="1262" levels="10" name="Transfer Pain" enchantGroup1="1">
 		<table name="#magicLvl"> 40 48 56 58 70 </table>
 		<table name="#mpInitialConsume"> 7 9 11 12 13 </table>
 		<table name="#power"> 10 20 30 40 50 </table>
@@ -2208,7 +2208,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="1263" levels="13" name="Curse Gloom" enchantGroup1="1" enchantGroup2="1">
+	<skill id="1263" levels="21" name="Curse Gloom" enchantGroup1="1" enchantGroup2="1">
 		<table name="#effectPoints"> -209 -229 -248 -266 -275 -283 -291 -299 -306 -312 -318 -323 -328 </table>
 		<table name="#magicLvl"> 44 48 52 56 58 60 62 64 66 68 70 72 74 </table>
 		<table name="#mpConsume"> 31 35 38 41 43 44 46 48 49 51 52 53 55 </table>

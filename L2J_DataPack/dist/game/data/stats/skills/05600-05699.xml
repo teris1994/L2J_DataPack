@@ -726,7 +726,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5646" levels="2" name="Seraphim the Unicorn - Wild Magic">
+	<skill id="5646" levels="3" name="Seraphim the Unicorn - Wild Magic">
 		<!-- Confirmed CT2.5 -->
 		<!-- 3 lvl not_used, don't add it on skill -->
 		<table name="#abnormalLvls"> 1 2 3 </table>

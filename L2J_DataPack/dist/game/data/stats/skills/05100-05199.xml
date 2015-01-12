@@ -1013,7 +1013,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5151" levels="10" name="Mana Gain">
+	<skill id="5151" levels="15" name="Mana Gain">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1078,7 +1078,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5154" levels="10" name="Might">
+	<skill id="5154" levels="15" name="Might">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1101,7 +1101,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5156" levels="10" name="Empower">
+	<skill id="5156" levels="15" name="Empower">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1147,7 +1147,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5158" levels="10" name="Shield">
+	<skill id="5158" levels="15" name="Shield">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1170,7 +1170,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5159" levels="10" name="Magic Barrier">
+	<skill id="5159" levels="15" name="Magic Barrier">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1221,7 +1221,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5161" levels="10" name="Agility">
+	<skill id="5161" levels="15" name="Agility">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1244,7 +1244,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5162" levels="10" name="Guidance">
+	<skill id="5162" levels="15" name="Guidance">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#accCombat"> 1 1 1 2 2 2 3 3 3 4 </table>
@@ -1313,7 +1313,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5165" levels="10" name="Charm">
+	<skill id="5165" levels="15" name="Charm">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1336,7 +1336,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5166" levels="10" name="Decrease Speed">
+	<skill id="5166" levels="15" name="Decrease Speed">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1363,7 +1363,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5167" levels="10" name="Winter">
+	<skill id="5167" levels="15" name="Winter">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 75 </table>
@@ -1560,7 +1560,7 @@
 			<!-- FIXME: We need an instant effect that will work only vs monsters and fear them with 40% chance for 20 seconds here -->
 		</for>
 	</skill>
-	<skill id="5174" levels="10" name="Poison">
+	<skill id="5174" levels="15" name="Poison">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#abnormalLvls"> 5 5 6 6 6 7 7 7 8 8 </table>
@@ -1591,7 +1591,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="5175" levels="10" name="Bleed">
+	<skill id="5175" levels="15" name="Bleed">
 		<!-- Confirmed CT2.5 -->
 		<!-- Augmentation Skill (Trigger) -->
 		<table name="#abnormalLvls"> 5 5 6 6 6 7 7 7 8 8 </table>

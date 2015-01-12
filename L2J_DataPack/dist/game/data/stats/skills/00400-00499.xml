@@ -268,7 +268,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="404" levels="5" name="Mass Shackling" enchantGroup1="1" enchantGroup2="1">
+	<skill id="404" levels="14" name="Mass Shackling" enchantGroup1="1" enchantGroup2="1">
 		<table name="#effectPoints"> -1098 -1163 -1221 -1270 -1309 </table>
 		<table name="#magicLvl"> 58 62 66 70 74 </table>
 		<table name="#mpConsume"> 40 43 46 59 51 </table>
@@ -591,7 +591,7 @@
 			</effect>
 		</selfEffects>
 	</skill>
-	<skill id="410" levels="3" name="Mortal Strike" enchantGroup1="2" enchantGroup2="2">
+	<skill id="410" levels="8" name="Mortal Strike" enchantGroup1="2" enchantGroup2="2">
 		<!-- NOTE: This skill increases "Blow Rate" and description in client says "Critical Rate" but is client typo, so please don't change this skill -->
 		<table name="#abnormalLvls"> 1 2 3 </table>
 		<table name="#blowRate"> 1.1 1.15 1.2 </table>
@@ -1239,7 +1239,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="430" levels="1" name="Master of Combat" enchantGroup1="5" enchantGroup2="5">
+	<skill id="430" levels="8" name="Master of Combat" enchantGroup1="5" enchantGroup2="5">
 		<!-- Confirmed CT2.5 -->
 		<table name="#enchMagicLvl"> 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85 </table>
 		<table name="#enchPAtk"> 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 </table>
@@ -1485,7 +1485,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="437" levels="1" name="Song of Silence" enchantGroup1="5" enchantGroup2="5">
+	<skill id="437" levels="7" name="Song of Silence" enchantGroup1="5" enchantGroup2="5">
 		<!-- Confirmed CT2.5 -->
 		<table name="#ench1ActivateRates"> 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 </table>
 		<table name="#ench1EffectPoints"> -154 -159 -165 -171 -177 -183 -189 -196 -202 -209 -215 -222 -229 -236 -243 </table>
@@ -2708,7 +2708,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="483" levels="2" name="Sword Shield" enchantGroup1="1" enchantGroup2="1">
+	<skill id="483" levels="8" name="Sword Shield" enchantGroup1="1" enchantGroup2="1">
 		<!-- Confirmed CT2.5 -->
 		<table name="#abnormalLvls"> 1 2 </table>
 		<table name="#effectPoints"> 204 438 </table>
@@ -2776,7 +2776,7 @@
 			<effect name="EnemyCharge" />
 		</for>
 	</skill>
-	<skill id="485" levels="7" name="Disarm" enchantGroup1="1" enchantGroup2="1">
+	<skill id="485" levels="16" name="Disarm" enchantGroup1="1" enchantGroup2="1">
 		<!-- Confirmed CT2.5 -->
 		<table name="#effectPoints"> -341 -408 -467 -523 -582 -624 -655 </table>
 		<table name="#magicLvl"> 36 43 49 55 62 68 74 </table>

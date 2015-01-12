@@ -890,7 +890,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="1334" levels="7" name="Summon Cursed Man" enchantGroup1="1">
+	<skill id="1334" levels="13" name="Summon Cursed Man" enchantGroup1="1">
 		<table name="#itemConsumeCount"> 3 5 12 1 2 3 4 </table>
 		<table name="#itemConsumeCountOT"> 1 1 1 2 2 2 2 </table>
 		<table name="#magicLvl"> 56 60 64 68 70 72 74 </table>

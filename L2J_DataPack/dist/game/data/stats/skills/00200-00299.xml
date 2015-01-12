@@ -980,7 +980,7 @@
 			</effect>
 		</enchant2for>
 	</skill>
-	<skill id="239" levels="7" name="Expertise D">
+	<skill id="239" levels="10" name="Expertise D">
 		<table name="#icons"> icon.skill0239 icon.skill0240 icon.skill0241 icon.skill0242 icon.skill0243 icon.skill0243 icon.skill0243 </table>
 		<table name="#magicLvl"> 20 40 52 61 76 80 84 </table>
 		<set name="icon" val="#icons" />
@@ -1074,7 +1074,7 @@
 			<effect name="HeadquarterCreate" />
 		</for>
 	</skill>
-	<skill id="248" levels="5" name="Crystallize">
+	<skill id="248" levels="6" name="Crystallize">
 		<table name="#magicLvl"> 20 40 52 60 70 </table>
 		<set name="icon" val="icon.skill0248" />
 		<set name="magicLvl" val="#magicLvl" />
@@ -1615,7 +1615,7 @@
 			<effect name="Stun" />
 		</enchant1for>
 	</skill>
-	<skill id="261" levels="22" name="Triple Sonic Slash" enchantGroup1="2" enchantGroup2="2" enchantGroup3="2" enchantGroup4="2" enchantGroup5="2" enchantGroup6="2" enchantGroup7="2">
+	<skill id="261" levels="31" name="Triple Sonic Slash" enchantGroup1="2" enchantGroup2="2" enchantGroup3="2" enchantGroup4="2" enchantGroup5="2" enchantGroup6="2" enchantGroup7="2">
 		<table name="#effectPoints"> -598 -609 -620 -631 -641 -651 -661 -671 -680 -690 -699 -708 -716 -724 -732 -739 -746 -753 -759 -765 -771 -776 </table>
 		<table name="#magicLvl"> 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 </table>
 		<table name="#mpConsume"> 103 105 108 110 113 115 118 120 121 123 125 128 130 132 134 136 139 141 143 145 146 148 </table>
@@ -2284,7 +2284,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="279" levels="5" name="Lightning Strike" enchantGroup1="2" enchantGroup2="2" enchantGroup3="2">
+	<skill id="279" levels="14" name="Lightning Strike" enchantGroup1="2" enchantGroup2="2" enchantGroup3="2">
 		<!-- Confirmed CT2.5 -->
 		<table name="#effectPoints"> -828 -877 -921 -958 -987 </table>
 		<table name="#magicLvl"> 58 62 66 70 74 </table>
@@ -2613,7 +2613,7 @@
 			</effect>
 		</enchant1for>
 	</skill>
-	<skill id="286" levels="3" name="Provoke">
+	<skill id="286" levels="12" name="Provoke">
 		<!-- Confirmed CT2.5 -->
 		<table name="#affectRange"> 500 700 900 </table>
 		<table name="#effectPoints"> -136 -175 -189 </table>
